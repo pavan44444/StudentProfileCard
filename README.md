@@ -1,0 +1,2 @@
+# StudentProfileCard
+Used Props Concept.
